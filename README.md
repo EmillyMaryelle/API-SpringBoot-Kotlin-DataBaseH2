@@ -11,10 +11,15 @@ H2
 # Como Executar o Projeto
 ## Para executar o projeto, basta seguir as seguintes etapas:
 
-Faça o clone do projeto em sua máquina local;
-Abra o projeto em sua IDE preferida e faça a compilação do mesmo;
-Execute o projeto em sua IDE ou via linha de comando;
-Inicie o servidor de aplicação
-Acesse o postman e execute o corpo abaixo com o link POST para generate - http://localhost:8080//api/generate e para GET -  http://localhost:8080//api/get
+  Faça o clone do projeto em sua máquina local;
+  Abra o projeto em sua IDE preferida e faça a compilação do mesmo;
+  Execute o projeto em sua IDE ou via linha de comando;
+  Inicie o servidor de aplicação
+  Acesse o postman e execute o corpo abaixo com o link POST para generate - http://localhost:8080//api/generate e para GET -  http://localhost:8080//api/get
+  
+  
+ # Para executar os testes foi implementado o cypress
+ 
+ npm install cypress // ./gradlew bootRun // 
 
 
